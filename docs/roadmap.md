@@ -38,7 +38,7 @@ No multiplayer, no database, no cloud deployment, no advanced AI training.
 
 ---
 
-## Naziri — Unity / C# / Game Mechanics
+## Aylin — Unity / C# / Game Mechanics
 
 ### Learn
 
@@ -114,7 +114,7 @@ No multiplayer, no database, no cloud deployment, no advanced AI training.
 
 ---
 
-## Agajani — Webcam Framework
+## Shirin — Webcam Framework
 
 ### Learn
 
@@ -166,7 +166,7 @@ Cast Fireball
 
 ---
 
-## Azarnejhad — Backend
+## Setayesh — Backend
 
 ### Learn
 
@@ -197,7 +197,7 @@ Note: Backend is not required for Version 1.
 Webcam detects hand.
 
 Owner:
-Sahand + Agajani
+Sahand + Shirin
 
 ---
 
@@ -221,7 +221,7 @@ Sahand + Sadra
 Unity receives gesture.
 
 Owner:
-Abol + Naziri
+Abol + Aylin
 
 ---
 
@@ -230,7 +230,7 @@ Abol + Naziri
 Spell animation plays.
 
 Owner:
-Nima + Naziri
+Nima + Aylin
 
 ---
 

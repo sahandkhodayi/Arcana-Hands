@@ -173,7 +173,7 @@ Responsibilities:
 
 ---
 
-### Naziri
+### Aylin
 
 Gameplay Programming
 
@@ -199,7 +199,7 @@ Responsibilities:
 
 ---
 
-### Agajani
+### Shirin
 
 Camera Systems
 
@@ -223,7 +223,7 @@ Responsibilities:
 
 ---
 
-### Azarnejhad
+### Setayesh
 
 Backend Development
 
